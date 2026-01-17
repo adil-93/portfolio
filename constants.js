@@ -35,10 +35,10 @@ const PROJECTS_DATA = [
         title: "Coming Soon",
         description: "* Developed a responsive Student Management System dashboard using HTML and CSS to manage student records and key academic information.",
         image: "https://images.unsplash.com/photo-1581090700227-1e37b190418e",
-        technologies: ["Java", "Spring Boot", "MySQL"],
+        technologies: ["HTML", "CSS"],
         links: {
-            live: "#",
-            github: "#"
+            live: "https://adil-93.github.io/student-management-system/",
+            github: "https://adil-93.github.io/student-management-system/"
         },
         featured: false
     }
@@ -170,6 +170,7 @@ const PERSONAL_INFO = {
     intro: "Hi, I'm",
     tagline: "Passionate about creating innovative solutions and learning new technologies."
 };
+
 
 
 
