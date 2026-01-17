@@ -155,7 +155,7 @@ const CONTACT_INFO = {
         }
     ],
     resume: {
-        url: "https://drive.google.com/file/d/1yTkLrLRF7jFbOLR5eXZ86xI9ntXo9Ldg/view?usp=drivesdk",
+        url: "https://drive.google.com/file/d/1iZUXWd8A0YcbFVJ_4LZXkSIhF6I5pCy2/view?usp=drivesdk",
         filename: "Shaik_Adil_Resume.pdf"
     }
 };
@@ -165,11 +165,12 @@ const PERSONAL_INFO = {
     name: "Shaik Adil",
     title: "Java Full Stack Developer",
     subtitle: "Trainee at TAP Academy",
-    description: "My name is Shaik Adil I am Java full stack developer",
+    description: "My name is Shaik Adil I am Java full stack Developer",
     profileImage: "images/profile.jpg",
     intro: "Hi, I'm",
     tagline: "Passionate about creating innovative solutions and learning new technologies."
 };
+
 
 
 
