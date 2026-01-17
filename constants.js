@@ -56,7 +56,7 @@ const EXPERIENCE_DATA = [
         startDate: "2024",
         endDate: "Present",
         description: "Currently undergoing comprehensive training in Java full stack development for 6 months, learning both frontend and backend technologies.",
-        skills: ["Java", "JDBC", "MySQL", "Frontend Technologies","HTML","CSS","JavaScript"],
+        skills: ["Java", "JDBC/Hibernate", "MySQL", "Frontend Technologies","HTML","CSS","JavaScript"],
         achievements: [
             "Learning core Java programming concepts",
             "Database management with MySQL",
@@ -170,6 +170,7 @@ const PERSONAL_INFO = {
     intro: "Hi, I'm",
     tagline: "Passionate about creating innovative solutions and learning new technologies."
 };
+
 
 
 
