@@ -32,7 +32,7 @@ const PROJECTS_DATA = [
     // You can add more projects here in the future
     {
         id: 2,
-        title: "Coming Soon",
+        title: "Student-Management-System",
         description: "* Developed a responsive Student Management System dashboard using HTML and CSS to manage student records and key academic information.",
         image: "https://images.unsplash.com/photo-1581090700227-1e37b190418e",
         technologies: ["HTML", "CSS"],
@@ -40,7 +40,7 @@ const PROJECTS_DATA = [
             live: "https://adil-93.github.io/student-management-system/",
             github: "https://adil-93.github.io/student-management-system/"
         },
-        featured: false
+        featured: true
     }
 ];
 
@@ -170,6 +170,7 @@ const PERSONAL_INFO = {
     intro: "Hi, I'm",
     tagline: "Passionate about creating innovative solutions and learning new technologies."
 };
+
 
 
 
