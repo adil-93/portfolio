@@ -21,7 +21,7 @@ const PROJECTS_DATA = [
         id: 1,
         title: " Portfolio",
         description: "portfolio which is used to describe my achievements and showcase my skills and projects in an interactive way. Built with modern web technologies and responsive design.",
-        image: "images/portfolio.jpg",
+        image: "https://images.unsplash.com/photo-1518770660439-4636190af475",
         technologies: ["HTML", "CSS", "JavaScript"],
         links: {
             live: "https://adil-93.github.io/portfolio/",
@@ -33,9 +33,7 @@ const PROJECTS_DATA = [
     {
         id: 2,
         title: "Coming Soon",
-        description: "* Developed a responsive Student Management System dashboard using HTML and CSS to manage student records and key academic information.
-        * Designed clean pages for student lists, course details, and basic fee information with well-
-         structured tables and card-style summary sections.",
+        description: "* Developed a responsive Student Management System dashboard using HTML and CSS to manage student records and key academic information.",
         image: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/59590f161506911.63c69267a1f81.jpg",
         technologies: ["Java", "Spring Boot", "MySQL"],
         links: {
@@ -172,6 +170,7 @@ const PERSONAL_INFO = {
     intro: "Hi, I'm",
     tagline: "Passionate about creating innovative solutions and learning new technologies."
 };
+
 
 
 
