@@ -19,13 +19,13 @@ const SCROLL_OFFSET = 100;
 const PROJECTS_DATA = [
     {
         id: 1,
-        title: " Portfolio",
-        description: "portfolio which is used to describe my achievements and showcase my skills and projects in an interactive way. Built with modern web technologies and responsive design.",
-        image: "https://images.unsplash.com/photo-1518770660439-4636190af475",
+        title: " Food Delivery Application ",
+        description: "Developed a full-stack food delivery web application using Java, JSP, Servlets, and MySQL. Implemented features such as user authentication, restaurant listing, menu browsing, cart management, and order placement. Applied MVC architecture for clean separation of business logic, presentation, and data layers.Integrated MySQL database using JDBC/Hibernate and managed user sessions using Http Session.Deployed and tested the application on Apache Tomcat server.",
+        image: "https://chatgpt.com/backend-api/estuary/content?id=file_00000000d96071fab8e0301fc4db7418&ts=491525&p=fs&cid=1&sig=6e786c2b800cde65bb19dc127aedd3d4090414fbe46b38d8e48a1cf1ceb009f4&v=0",
         technologies: ["HTML", "CSS", "JavaScript"],
         links: {
-            live: "https://adil-93.github.io/portfolio/",
-            github: "https://adil-93.github.io/portfolio/"
+            live: "https://github.com/adil-93/Food_Delivery_Application",
+            github: "https://github.com/adil-93/Food_Delivery_Application"
         },
         featured: true
     },
@@ -56,7 +56,7 @@ const EXPERIENCE_DATA = [
         startDate: "2024",
         endDate: "Present",
         description: "Currently undergoing comprehensive training in Java full stack development for 6 months, learning both frontend and backend technologies.",
-        skills: ["Java", "JDBC/Hibernate", "MySQL", "Frontend Technologies","HTML","CSS","JavaScript"],
+        skills: ["Java", "JDBC/Hibernate", "MySQL","SpringBoot/Hibernate", "Frontend Technologies","HTML","CSS","JavaScript"],
         achievements: [
             "Learning core Java programming concepts",
             "Database management with MySQL",
@@ -155,7 +155,7 @@ const CONTACT_INFO = {
         }
     ],
     resume: {
-        url: "https://drive.google.com/file/d/1iZUXWd8A0YcbFVJ_4LZXkSIhF6I5pCy2/view?usp=drivesdk",
+        url: "https://drive.google.com/file/d/1390Ad_72zyu9SxNhmErD07F4Nm_I0224/view?usp=drivesdk",
         filename: "Shaik_Adil_Resume.pdf"
     }
 };
@@ -170,6 +170,7 @@ const PERSONAL_INFO = {
     intro: "Hi, I'm",
     tagline: "Passionate about creating innovative solutions and learning new technologies."
 };
+
 
 
 
