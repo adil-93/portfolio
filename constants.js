@@ -20,8 +20,8 @@ const PROJECTS_DATA = [
     {
         id: 1,
         title: " Food Delivery Application ",
-        description: "Developed a full-stack food delivery web application using Java, JSP, Servlets, and MySQL. Implemented features such as user authentication, restaurant listing, menu browsing, cart management, and order placement. Applied MVC architecture for clean separation of business logic, presentation, and data layers.Integrated MySQL database using JDBC/Hibernate and managed user sessions using Http Session.Deployed and tested the application on Apache Tomcat server.",
-        image: "C:\Users\Admin\OneDrive\Desktop\Food Image portfolio.png",
+        description: "*Developed a full-stack food delivery web application using Java, JSP, Servlets, and MySQL. Implemented features such as user authentication, restaurant listing, menu browsing, cart management, and order placement. Applied MVC architecture for clean separation of business logic, presentation, and data layers.Integrated MySQL database using JDBC/Hibernate and managed user sessions using Http Session.Deployed and tested the application on Apache Tomcat server.",
+        image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
         technologies: ["Java", "JSP", "Servlets", "MySQL/JDBC/Hibernate"],
         links: {
             live: "https://github.com/adil-93/Food_Delivery_Application",
@@ -33,7 +33,7 @@ const PROJECTS_DATA = [
     {
         id: 2,
         title: "Student-Management-System",
-        description: "* Developed a responsive Student Management System dashboard using HTML and CSS to manage student records and key academic information.",
+        description: "* Developed a responsive Student Management System dashboard using HTML and CSS to manage student records and key academic information.Created responsive web pages for student registration, student list display, and profile view.Focused on clean UI design, form validation layout, and user-friendly navigation.Applied modern CSS techniques such as Flexbox and Grid for responsive layouts.Improved usability and accessibility through structured markup and consistent styling.",
         image: "https://images.unsplash.com/photo-1581090700227-1e37b190418e",
         technologies: ["HTML", "CSS"],
         links: {
@@ -170,6 +170,7 @@ const PERSONAL_INFO = {
     intro: "Hi, I'm",
     tagline: "Passionate about creating innovative solutions and learning new technologies."
 };
+
 
 
 
