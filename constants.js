@@ -21,7 +21,7 @@ const PROJECTS_DATA = [
         id: 1,
         title: " Food Delivery Application ",
         description: "Developed a full-stack food delivery web application using Java, JSP, Servlets, and MySQL. Implemented features such as user authentication, restaurant listing, menu browsing, cart management, and order placement. Applied MVC architecture for clean separation of business logic, presentation, and data layers.Integrated MySQL database using JDBC/Hibernate and managed user sessions using Http Session.Deployed and tested the application on Apache Tomcat server.",
-        image: "https://chatgpt.com/backend-api/estuary/content?id=file_00000000d96071fab8e0301fc4db7418&ts=491525&p=fs&cid=1&sig=6e786c2b800cde65bb19dc127aedd3d4090414fbe46b38d8e48a1cf1ceb009f4&v=0",
+        image: "C:\Users\Admin\OneDrive\Desktop\Food Image portfolio.png",
         technologies: ["Java", "JSP", "Servlets", "MySQL/JDBC/Hibernate"],
         links: {
             live: "https://github.com/adil-93/Food_Delivery_Application",
@@ -170,6 +170,7 @@ const PERSONAL_INFO = {
     intro: "Hi, I'm",
     tagline: "Passionate about creating innovative solutions and learning new technologies."
 };
+
 
 
 
